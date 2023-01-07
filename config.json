@@ -1,0 +1,28 @@
+{
+  "name": {
+    "zh-cn": "tkinter",
+    "en": "tkinter"
+  },
+  "description": {
+    "zh-cn": "Tkinter 是 Python 的标准 GUI 库。",
+    "en": "Tkinter is Python's standard GUI library."
+  },
+  "author": "holly",
+  "email": "3364999634@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "tkinter",
+  "platform": [
+    "win"
+  ],
+  "version": "0.0.1",
+  "asset": {
+    "python": {
+      "dir": "python",
+      "main": "main.ts",
+      "dependencies": {
+        "paramiko": "2.7.2"
+      }
+    }
+  }
+}
